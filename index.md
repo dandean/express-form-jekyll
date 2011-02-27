@@ -18,8 +18,8 @@ $ npm install express-form
 </div>
 
 <div class="download" markdown="1">
-<a href="http://github.com/dandean/express-form/zipball/master"><img border="0" width="90" src="/img/zip.png"></a>
-<a href="http://github.com/dandean/express-form/tarball/master"><img border="0" width="90" src="/img/tar.png"></a>
+<a href="http://github.com/dandean/express-form/zipball/master"><img border="0" width="90" src="./img/zip.png"></a>
+<a href="http://github.com/dandean/express-form/tarball/master"><img border="0" width="90" src="./img/tar.png"></a>
 </div>
 
 <div class="doc" markdown="1">
